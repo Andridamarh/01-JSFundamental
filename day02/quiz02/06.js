@@ -25,6 +25,7 @@ function checkPrime(n) {
   }
 
   return true;
+
 }
 
 console.log(showPrimeNumber(100));
