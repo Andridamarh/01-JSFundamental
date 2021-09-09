@@ -28,3 +28,4 @@ function checkPrime(n) {
 }
 
 console.log(showPrimeNumber(100));
+
