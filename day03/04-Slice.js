@@ -9,5 +9,5 @@ const pl = programming.slice(0,4);
 const pl2 = programming.slice(-5,-1);
 
 const sql = programming.indexOf("sql");
-
+ 
 console.log();

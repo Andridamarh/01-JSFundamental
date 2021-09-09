@@ -28,3 +28,4 @@ console.log(citiesSlice(cities, "jakarta"));
 
 //   return arrays;
 // }
+

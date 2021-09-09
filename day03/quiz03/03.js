@@ -62,3 +62,4 @@ function switchIndex(arrInput, input1, input2) {
 console.log(switchIndex(vege, "TOMAT", "JERUK"));
 
 console.log();
+

@@ -58,3 +58,4 @@ console.log(countValley("UUDDDDUDUUDUDUUDUUDD"));
 // }
 
 // console.log(countValley("UDDDUDUU"));
+

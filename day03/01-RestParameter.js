@@ -17,4 +17,4 @@ function sumNumber(...numbers) {
 
 console.log(cetakAngka(1, 2, 5, 4));
 console.log(cetakNumber(5, 3, 4, 4, 6));
-console.log(sumNumber(1, 2, 5, 4));
+console.log(sumNumber(1, 2, 5, 4)); 

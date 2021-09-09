@@ -4,5 +4,5 @@ const [jave,js,python,go,...db] = programming;
 
 // tidak menampilkan bbrp
 // const [java,js,python,go,,...db] = programming;
-
+ 
 console.log();

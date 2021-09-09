@@ -9,6 +9,7 @@ function maxNumber(n) {
 
 console.log(maxNumber(numbers));
 
+
 // ******************sebelumnya******************
 
 // const numbers = [2, 42, 5, 304, 103, 13];

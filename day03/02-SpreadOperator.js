@@ -13,4 +13,4 @@ const bilangan = ganjil.concat(genap).sort();
 // spread operator bisa ditampilkan degan element lain
 const gage = [...ganjil,...genap,9,10,11];
 
-console.log();
+console.log(); 

@@ -15,7 +15,7 @@ const bigNums = nums.find(element => element > 10);
 
 // menampilkan element yg lebih dari 10
 const bigBigNums = nums.filter(element => element > 10);
-
+ 
 // method map
 const numbers = [2,3,4,5,6,10,15];
 const byFive = numbers.map(element=> element * 5);

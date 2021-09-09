@@ -12,7 +12,7 @@ console.log(programming.splice(4,2,".NET","sqlserver"));
 
 // menambah tanpa menghapus di index 4
 console.log(programming.splice(4,0,".NET","sqlserver"));
-
+ 
 console.log();
 
 

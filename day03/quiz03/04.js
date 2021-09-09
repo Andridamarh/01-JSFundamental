@@ -38,3 +38,4 @@ function printArr(inputArr) {
 }
 
 console.log(printArr(products));
+

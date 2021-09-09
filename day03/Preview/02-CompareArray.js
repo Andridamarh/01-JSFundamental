@@ -20,3 +20,4 @@ function areArrayEqual(array1, array2) {
 
 console.log(areArrayEqual(fruitNamesA, fruitNamesC));
 console.log(areArrayEqual(fruitNamesC.sort(), fruitNamesD.sort()));
+
