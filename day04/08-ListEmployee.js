@@ -1,3 +1,5 @@
+// import class 
+
 import Employee, { Contract } from "./Employee.js";
 
 const emp1 = new Employee("john", "black", 5000, ["java", "oracle"]);

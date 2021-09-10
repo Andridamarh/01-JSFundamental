@@ -10,7 +10,7 @@ carts.delete(3);
 
 console.log(carts.size); //panjang dari map
 
-// display
+// display 
 for (const [key,value] of carts) {
     console.log(key + " " + value);
 }

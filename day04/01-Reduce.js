@@ -9,5 +9,5 @@ function add(sum,value){
 // const sum = itemPrice.reduce(add);
 
 const total = itemPrice.reduce((acc,el) => acc + el,0);
-
+ 
 console.log(total);

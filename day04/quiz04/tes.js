@@ -18,3 +18,4 @@ const try1 = list.showAllProduct()
 console.log(showAll(list));
 
 console.log();
+ 

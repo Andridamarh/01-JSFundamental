@@ -1,3 +1,5 @@
+// quiz class
+
 export default class Product {
   constructor(prodId, prodName, category='', price=0, jumlahBeli=0, subTotal=0) {
     this.prodId = prodId;

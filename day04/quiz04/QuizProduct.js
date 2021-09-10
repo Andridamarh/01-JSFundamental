@@ -19,7 +19,7 @@ function addProduct(product) {
 
 console.log(addProduct(prod6));
 
-// 3
+// 3 
 
 /* let str = '';
 

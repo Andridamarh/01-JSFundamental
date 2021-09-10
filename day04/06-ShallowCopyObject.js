@@ -1,4 +1,4 @@
-// clonning object shallow
+// clonning object shallow 
 
 const employee = {
     firstName : "John",

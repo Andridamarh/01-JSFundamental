@@ -1,4 +1,4 @@
-// declaration object
+// declaration object 
 const blankObject ={};
 const blankObject2 = new Object()
 

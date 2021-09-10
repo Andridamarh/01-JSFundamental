@@ -1,4 +1,4 @@
-// background kenapa harus pake Class
+// background kenapa harus pake Class 
 
 const emp1 = {
     firstName : "John",

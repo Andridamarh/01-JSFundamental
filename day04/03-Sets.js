@@ -1,4 +1,4 @@
-// set only has one attribute untuk simpan data unique
+// set only has one attribute untuk simpan data unique 
 
 const students = new Set();
 students.add("dian");

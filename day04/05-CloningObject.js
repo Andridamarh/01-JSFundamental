@@ -1,4 +1,4 @@
-// clonning object
+// clonning object 
 
 const employee = {
     firstName : "John",
