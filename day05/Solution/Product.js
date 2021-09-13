@@ -25,4 +25,15 @@ export default class Product {
       prodName=${this.prodName}
       category=${this.category}`;
   }
+
+  showAllProduct() {
+    return `
+Id        : ${this.prodId}
+Nama      : ${this.prodName}
+Category  : ${this.category}
+Price     : ${this.price}
+Jumlah    : ${this.jumlahBeli}
+SubTotal  : ${this.subTotal}
+`;
+  }
 }

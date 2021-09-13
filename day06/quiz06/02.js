@@ -29,14 +29,6 @@ const payment = (pay) => {
   }
 };
 
-/* const displayTagihan = async (price, nomor, pay) => {
-  const [prodPrice, orderFormat, payType] = await Promise.all([
-    getProduct(price),
-    createOrder(nomor),
-    payment(pay),
-  ]);
-  return [prodPrice, orderFormat, payType];
-}; */
 
 const displayTagihan = async (price, nomor, pay) => {
   const [prodPrice, orderFormat, payType] = await Promise.all([
