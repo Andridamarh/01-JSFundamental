@@ -80,10 +80,10 @@ update t_policy
 set policy_due_date =(
 	make_date(
 	extract(year from (policy_submit_date + interval '30 day')) :: int,
-	(extract(month from (policy_submit_date + interval '30 day')) :: int) + 1,
+	extract(month from (policy_submit_date + interval '30 day')) :: int,
 	1
 	)
-	- interval '1 day'
+	+ interval '1 month - 1 day'
 )
 
 -- soal e
